@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: MyNews
+Bundle-SymbolicName: MyNews
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.wtu.jbs.controller,
+ com.wtu.jbs.dao,
+ com.wtu.jbs.util,
+ com.wtu.jbs.vo
